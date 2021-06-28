@@ -1,5 +1,5 @@
 {
-  "name": "font-end-cli",
+  "name": "ui-lib-cli",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
