@@ -1,0 +1,13 @@
+{
+  "name": "font-end-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "kolorist": "^1.5.0",
+    "prompts": "^2.4.1"
+  },
+  "scripts": {
+    "dev": "node scripts/uiLib.js"
+  }
+}
