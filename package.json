@@ -1,6 +1,6 @@
 {
-  "name": "ui-lib-cli",
-  "version": "1.0.0",
+  "name": "@phsix/ui-lib-cli",
+  "version": "1.0.4",
   "type": "module",
   "main": "index.js",
   "description": "A tool to help font-end developer quickly install frequently used libraries.",
